@@ -24,7 +24,7 @@ figcaption {
   width: 800px;
 }
 
-#details {
+selector + div {
   display: block;
   float: left;
   color: green
