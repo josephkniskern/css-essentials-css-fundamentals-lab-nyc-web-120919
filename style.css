@@ -24,10 +24,8 @@ figcaption {
   width: 800px;
 }
 
-selector > div {
-  display: block;
-  float: left;
-  color: green
+#details {
+  display: block
 }
 
 
